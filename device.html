@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title id="pageTitle">Device specs — SpecShelf</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800&family=JetBrains+Mono:wght@400;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header class="site-header">
+  <div class="header-inner">
+    <a href="index.html" class="logo">
+      <span class="bars"><span></span><span></span><span></span><span></span></span>
+      SpecShelf<small>.my</small>
+    </a>
+    <div class="search-bar">
+      <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/></svg>
+      <input id="searchInput" type="text" placeholder="Search phones, tablets, brands...">
+    </div>
+    <nav class="main-nav">
+      <a href="index.html">Phones</a>
+      <a href="index.html">Tablets</a>
+      <a href="compare.html">Compare</a>
+      <a href="#">Reviews</a>
+    </nav>
+    <span class="region-pill">MY</span>
+  </div>
+</header>
+
+<div class="ad-slot ad-leaderboard"><!-- AdSense: 728x90 --> Ad space — 728×90 leaderboard</div>
+
+<div class="container">
+  <div class="page-grid">
+    <main id="deviceMain">
+      <!-- populated by app.js -->
+    </main>
+    <aside>
+      <div class="ad-slot ad-sidebar"><!-- AdSense: 300x250 --> Ad space — 300×250</div>
+      <div class="sidebar-box">
+        <h3>Also consider</h3>
+        <ul class="sidebar-list" id="relatedList"></ul>
+      </div>
+    </aside>
+  </div>
+</div>
+
+<div class="compare-tray" id="compareTray">
+  <span style="font-size:12px;font-weight:700;color:var(--amber);">COMPARE</span>
+  <div id="traySlots" style="display:flex;gap:8px;"></div>
+  <a href="compare.html" class="btn btn-primary" style="margin-left:auto;">Compare now</a>
+</div>
+
+<footer class="site-footer">
+  <div class="footer-bottom">Specifications sourced from manufacturer materials and public listings. Prices are estimates for reference only. © 2026 SpecShelf.</div>
+</footer>
+
+<script src="app.js"></script>
+<script src="device.js"></script>
+</body>
+</html>

@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Compare devices — SpecShelf</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800&family=JetBrains+Mono:wght@400;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header class="site-header">
+  <div class="header-inner">
+    <a href="index.html" class="logo">
+      <span class="bars"><span></span><span></span><span></span><span></span></span>
+      SpecShelf<small>.my</small>
+    </a>
+    <nav class="main-nav">
+      <a href="index.html">Phones</a>
+      <a href="index.html">Tablets</a>
+      <a href="compare.html" class="active">Compare</a>
+      <a href="#">Reviews</a>
+    </nav>
+    <span class="region-pill">MY</span>
+  </div>
+</header>
+
+<div class="ad-slot ad-leaderboard"><!-- AdSense: 728x90 --> Ad space — 728×90 leaderboard</div>
+
+<div class="container" style="padding-bottom:60px;">
+  <h2 class="section-title">Compare devices</h2>
+  <div id="pickerRow" style="display:flex; gap:12px; margin-bottom:24px; flex-wrap:wrap;"></div>
+  <div style="overflow-x:auto;">
+    <table class="compare-table" id="compareTableEl"></table>
+  </div>
+</div>
+
+<footer class="site-footer">
+  <div class="footer-bottom">Specifications sourced from manufacturer materials and public listings. Prices are estimates for reference only. © 2026 SpecShelf.</div>
+</footer>
+
+<script src="app.js"></script>
+<script src="compare.js"></script>
+</body>
+</html>

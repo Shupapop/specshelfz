@@ -1,0 +1,148 @@
+{
+  "devices": [
+    {
+      "id": "honor-pad-20-pro",
+      "brand": "Honor",
+      "name": "Honor Pad 20 Pro",
+      "type": "Tablet",
+      "released": "2026, June 10",
+      "status": "Available",
+      "img": "",
+      "price_my": "RM 1,899",
+      "price_global": "$429 / €419",
+      "quickspec": {
+        "Display": "12.3\" OLED, 144Hz",
+        "Chipset": "Snapdragon 8s Gen 4",
+        "RAM": "12GB",
+        "Battery": "10,200 mAh"
+      },
+      "ratings": {"performance": 4, "battery": 5, "display": 5, "value": 4},
+      "specs": {
+        "Network": {
+          "Technology": "No cellular connectivity (Wi-Fi model)"
+        },
+        "Body": {
+          "Dimensions": "281.3 x 184.7 x 5.9 mm",
+          "Weight": "555 g",
+          "Build": "Aluminum unibody"
+        },
+        "Display": {
+          "Type": "OLED, 120Hz-144Hz adaptive, 500 nits",
+          "Size": "12.3 inches",
+          "Resolution": "2000 x 3000 pixels"
+        },
+        "Platform": {
+          "OS": "MagicOS 10 (Android 16)",
+          "Chipset": "Qualcomm Snapdragon 8s Gen 4",
+          "CPU": "Octa-core",
+          "GPU": "Adreno 825"
+        },
+        "Memory": {
+          "Card slot": "No",
+          "Internal": "256GB 12GB RAM, 512GB 12GB RAM"
+        },
+        "Main Camera": {
+          "Single": "13 MP, f/1.8"
+        },
+        "Selfie Camera": {
+          "Single": "8 MP, f/2.2, wide-angle"
+        },
+        "Battery": {
+          "Type": "Li-Po 10200 mAh, non-removable",
+          "Charging": "66W wired, 50% in 30 min"
+        },
+        "Misc": {
+          "Colors": "Space Grey, Silver",
+          "Price": "About RM 1,899 / $429 / €419"
+        }
+      }
+    },
+    {
+      "id": "iphone-17-pro",
+      "brand": "Apple",
+      "name": "iPhone 17 Pro",
+      "type": "Phone",
+      "released": "2026, September",
+      "status": "Available",
+      "img": "",
+      "price_my": "RM 5,999",
+      "price_global": "$1,099 / €1,149",
+      "quickspec": {
+        "Display": "6.3\" OLED, 120Hz",
+        "Chipset": "Apple A19 Pro",
+        "RAM": "8GB",
+        "Battery": "3,650 mAh"
+      },
+      "ratings": {"performance": 5, "battery": 4, "display": 5, "value": 3},
+      "specs": {
+        "Network": {"Technology": "GSM / CDMA / HSPA / EVDO / LTE / 5G"},
+        "Body": {"Dimensions": "150.0 x 71.9 x 8.2 mm", "Weight": "206 g", "Build": "Titanium frame, Ceramic Shield 2 front and back"},
+        "Display": {"Type": "LTPO Super Retina XDR OLED, 120Hz, 3000 nits", "Size": "6.3 inches", "Resolution": "1206 x 2622 pixels"},
+        "Platform": {"OS": "iOS 20", "Chipset": "Apple A19 Pro (3 nm)", "CPU": "Hexa-core", "GPU": "Apple GPU (6-core)"},
+        "Memory": {"Card slot": "No", "Internal": "256GB 8GB RAM, 512GB 8GB RAM, 1TB 8GB RAM"},
+        "Main Camera": {"Triple": "48 MP main + 48 MP ultrawide + 48 MP telephoto (5x)"},
+        "Selfie Camera": {"Single": "18 MP, f/1.9"},
+        "Battery": {"Type": "Li-Ion 3650 mAh, non-removable", "Charging": "40W wired 50% in 20 min, 25W wireless (MagSafe)"},
+        "Misc": {"Colors": "Deep Blue, Silver, Cosmic Orange", "Price": "About RM 5,999 / $1,099 / €1,149"}
+      }
+    },
+    {
+      "id": "samsung-galaxy-s26-ultra",
+      "brand": "Samsung",
+      "name": "Galaxy S26 Ultra",
+      "type": "Phone",
+      "released": "2026, February",
+      "status": "Available",
+      "img": "",
+      "price_my": "RM 6,499",
+      "price_global": "$1,299 / €1,349",
+      "quickspec": {
+        "Display": "6.9\" AMOLED, 120Hz",
+        "Chipset": "Snapdragon 8 Elite Gen 2",
+        "RAM": "12GB",
+        "Battery": "5,500 mAh"
+      },
+      "ratings": {"performance": 5, "battery": 5, "display": 5, "value": 4},
+      "specs": {
+        "Network": {"Technology": "GSM / CDMA / HSPA / EVDO / LTE / 5G"},
+        "Body": {"Dimensions": "162.8 x 76.9 x 8.1 mm", "Weight": "228 g", "Build": "Titanium frame, Gorilla Armor 3 glass"},
+        "Display": {"Type": "Dynamic AMOLED 3X, 120Hz, 2600 nits", "Size": "6.9 inches", "Resolution": "1440 x 3120 pixels"},
+        "Platform": {"OS": "One UI 9 (Android 16)", "Chipset": "Snapdragon 8 Elite Gen 2 for Galaxy", "CPU": "Octa-core", "GPU": "Adreno 840"},
+        "Memory": {"Card slot": "No", "Internal": "256GB 12GB RAM, 512GB 12GB RAM, 1TB 16GB RAM"},
+        "Main Camera": {"Quad": "200 MP main + 50 MP periscope telephoto (5x) + 12 MP ultrawide + 10 MP telephoto (3x)"},
+        "Selfie Camera": {"Single": "12 MP, f/2.2"},
+        "Battery": {"Type": "Li-Ion 5500 mAh, non-removable", "Charging": "45W wired, 15W wireless"},
+        "Misc": {"Colors": "Titanium Black, Titanium Grey, Titanium Silver", "Price": "About RM 6,499 / $1,299 / €1,349"}
+      }
+    },
+    {
+      "id": "xiaomi-pad-8-pro",
+      "brand": "Xiaomi",
+      "name": "Xiaomi Pad 8 Pro",
+      "type": "Tablet",
+      "released": "2026, April",
+      "status": "Available",
+      "img": "",
+      "price_my": "RM 2,199",
+      "price_global": "$479 / €459",
+      "quickspec": {
+        "Display": "13.0\" LCD, 144Hz",
+        "Chipset": "Snapdragon 8 Gen 4",
+        "RAM": "12GB",
+        "Battery": "12,000 mAh"
+      },
+      "ratings": {"performance": 4, "battery": 5, "display": 4, "value": 5},
+      "specs": {
+        "Network": {"Technology": "Wi-Fi model / 5G model available"},
+        "Body": {"Dimensions": "287.2 x 196.6 x 6.2 mm", "Weight": "586 g", "Build": "Aluminum unibody"},
+        "Display": {"Type": "LCD, 144Hz, Dolby Vision", "Size": "13.0 inches", "Resolution": "2136 x 3200 pixels"},
+        "Platform": {"OS": "HyperOS 3 (Android 16)", "Chipset": "Snapdragon 8 Gen 4", "CPU": "Octa-core", "GPU": "Adreno 830"},
+        "Memory": {"Card slot": "No", "Internal": "256GB 12GB RAM, 512GB 16GB RAM"},
+        "Main Camera": {"Single": "50 MP, f/1.8"},
+        "Selfie Camera": {"Single": "32 MP, f/2.2, wide-angle"},
+        "Battery": {"Type": "Li-Po 12000 mAh, non-removable", "Charging": "67W wired, 100% in 55 min"},
+        "Misc": {"Colors": "Graphite Grey, Ivory White", "Price": "About RM 2,199 / $479 / €459"}
+      }
+    }
+  ]
+}

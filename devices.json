@@ -143,6 +143,173 @@
         "Battery": {"Type": "Li-Po 12000 mAh, non-removable", "Charging": "67W wired, 100% in 55 min"},
         "Misc": {"Colors": "Graphite Grey, Ivory White", "Price": "About RM 2,199 / $479 / €459"}
       }
+    },
+    {
+      "id": "vivo-x300-ultra",
+      "brand": "Vivo",
+      "name": "Vivo X300 Ultra",
+      "type": "Phone",
+      "released": "2026, May",
+      "status": "Available",
+      "img": "",
+      "price_my": "RM 6,799",
+      "price_global": "Not sold globally in all markets — check local Vivo store",
+      "quickspec": {
+        "Display": "6.8\" AMOLED, 120Hz",
+        "Chipset": "Snapdragon 8 Elite",
+        "RAM": "16GB",
+        "Battery": "6,000 mAh"
+      },
+      "ratings": {"performance": 5, "battery": 5, "display": 5, "value": 4},
+      "specs": {
+        "Network": {"Technology": "GSM / HSPA / LTE / 5G"},
+        "Body": {"Dimensions": "Approx. 164 x 76 x 9 mm", "Weight": "Approx. 226 g", "Build": "Glass front and back, aluminum frame"},
+        "Display": {"Type": "AMOLED, 120Hz", "Size": "6.8 inches", "Resolution": "1260 x 2800 pixels (approx.)"},
+        "Platform": {"OS": "Funtouch OS (Android 16)", "Chipset": "Qualcomm Snapdragon 8 Elite", "CPU": "Octa-core"},
+        "Memory": {"Card slot": "No", "Internal": "512GB 16GB RAM"},
+        "Main Camera": {"Multi": "Zeiss-tuned system with periscope telephoto — see official Vivo listing for exact MP breakdown"},
+        "Selfie Camera": {"Single": "32 MP (approx.)"},
+        "Battery": {"Type": "Li-Po 6000 mAh, non-removable", "Charging": "90W wired fast charging (approx.)"},
+        "Misc": {"Colors": "Check retailer for available colors in Malaysia", "Price": "About RM 6,799 (Malaysia)"}
+      }
+    },
+    {
+      "id": "oppo-reno-16-pro",
+      "brand": "Oppo",
+      "name": "Oppo Reno 16 Pro",
+      "type": "Phone",
+      "released": "2026, July",
+      "status": "Available",
+      "img": "",
+      "price_my": "RM 3,699",
+      "price_global": "Regional pricing varies — check local Oppo store",
+      "quickspec": {
+        "Display": "6.7\" AMOLED, 120Hz",
+        "Chipset": "MediaTek Dimensity (mid-flagship)",
+        "RAM": "12GB",
+        "Battery": "5,800 mAh (approx.)"
+      },
+      "ratings": {"performance": 4, "battery": 5, "display": 4, "value": 4},
+      "specs": {
+        "Network": {"Technology": "GSM / HSPA / LTE / 5G"},
+        "Body": {"Dimensions": "Approx. 161 x 74 x 7.6 mm", "Weight": "Approx. 190 g", "Build": "Glass front, plastic/glass back, IP-rated"},
+        "Display": {"Type": "AMOLED, 120Hz", "Size": "6.7 inches", "Resolution": "1080 x 2412 pixels (approx.)"},
+        "Platform": {"OS": "ColorOS (Android 16)", "Chipset": "MediaTek Dimensity series", "CPU": "Octa-core"},
+        "Memory": {"Card slot": "No", "Internal": "256GB 12GB RAM"},
+        "Main Camera": {"Multi": "Portrait-focused multi-camera system — see official Oppo listing for exact MP breakdown"},
+        "Selfie Camera": {"Single": "50 MP (approx.)"},
+        "Battery": {"Type": "Li-Po, non-removable", "Charging": "80W wired fast charging (approx.)"},
+        "Misc": {"Colors": "Check retailer for available colors in Malaysia", "Price": "About RM 3,699 (Malaysia)"}
+      }
+    },
+    {
+      "id": "honor-magic-v6",
+      "brand": "Honor",
+      "name": "Honor Magic V6",
+      "type": "Phone",
+      "released": "2026, June",
+      "status": "Available",
+      "img": "",
+      "price_my": "RM 7,699",
+      "price_global": "Regional pricing varies — check local Honor store",
+      "quickspec": {
+        "Display": "Foldable AMOLED",
+        "Chipset": "Snapdragon 8 Elite (approx.)",
+        "RAM": "16GB",
+        "Battery": "5,600 mAh (approx.)"
+      },
+      "ratings": {"performance": 5, "battery": 4, "display": 5, "value": 3},
+      "specs": {
+        "Network": {"Technology": "GSM / HSPA / LTE / 5G"},
+        "Body": {"Dimensions": "Foldable book-style form factor", "Weight": "Approx. 220 g", "Build": "Titanium hinge, glass and aluminum"},
+        "Display": {"Type": "Foldable AMOLED, inner + outer display", "Size": "Inner approx. 7.9 inches, outer approx. 6.4 inches"},
+        "Platform": {"OS": "MagicOS (Android 16)", "Chipset": "Qualcomm Snapdragon series (flagship)", "CPU": "Octa-core"},
+        "Memory": {"Card slot": "No", "Internal": "512GB 16GB RAM"},
+        "Main Camera": {"Multi": "Triple rear camera system — see official Honor listing for exact MP breakdown"},
+        "Battery": {"Type": "Non-removable", "Charging": "Fast wired + wireless charging support"},
+        "Misc": {"Colors": "Check retailer for available colors in Malaysia", "Price": "About RM 7,699 (Malaysia)"}
+      }
+    },
+    {
+      "id": "xiaomi-17t-pro",
+      "brand": "Xiaomi",
+      "name": "Xiaomi 17T Pro",
+      "type": "Phone",
+      "released": "2026, May",
+      "status": "Available",
+      "img": "",
+      "price_my": "RM 3,199",
+      "price_global": "Regional pricing varies — check local Xiaomi store",
+      "quickspec": {
+        "Display": "6.7\" AMOLED, 120Hz",
+        "Chipset": "Dimensity/Snapdragon (mid-flagship)",
+        "RAM": "12GB",
+        "Battery": "5,500 mAh (approx.)"
+      },
+      "ratings": {"performance": 4, "battery": 5, "display": 4, "value": 5},
+      "specs": {
+        "Network": {"Technology": "GSM / HSPA / LTE / 5G"},
+        "Body": {"Dimensions": "Approx. 161 x 75 x 8 mm", "Weight": "Approx. 200 g", "Build": "Glass front and back, aluminum frame"},
+        "Display": {"Type": "AMOLED, 120Hz", "Size": "6.7 inches"},
+        "Platform": {"OS": "HyperOS (Android 16)", "CPU": "Octa-core"},
+        "Memory": {"Card slot": "No", "Internal": "256GB 12GB RAM, 512GB 12GB RAM"},
+        "Main Camera": {"Multi": "Leica-tuned multi-camera system — see official Xiaomi listing for exact MP breakdown"},
+        "Battery": {"Type": "Non-removable", "Charging": "Fast wired charging"},
+        "Misc": {"Colors": "Check retailer for available colors in Malaysia", "Price": "About RM 3,199 (Malaysia)"}
+      }
+    },
+    {
+      "id": "samsung-galaxy-a57",
+      "brand": "Samsung",
+      "name": "Samsung Galaxy A57",
+      "type": "Phone",
+      "released": "2026",
+      "status": "Available",
+      "img": "",
+      "price_my": "RM 2,399",
+      "price_global": "Regional pricing varies — check local Samsung store",
+      "quickspec": {
+        "Display": "AMOLED",
+        "Chipset": "Exynos 1480",
+        "RAM": "8GB",
+        "Battery": "Standard capacity"
+      },
+      "ratings": {"performance": 3, "battery": 4, "display": 4, "value": 4},
+      "specs": {
+        "Network": {"Technology": "GSM / HSPA / LTE / 5G"},
+        "Body": {"Build": "IP67 water and dust resistance"},
+        "Display": {"Type": "AMOLED"},
+        "Platform": {"OS": "One UI (Android 16)", "Chipset": "Samsung Exynos 1480", "CPU": "Octa-core"},
+        "Memory": {"Card slot": "No", "Internal": "256GB 8GB RAM"},
+        "Battery": {"Type": "Non-removable"},
+        "Misc": {"Colors": "Check retailer for available colors in Malaysia", "Price": "About RM 2,399 (Malaysia)"}
+      }
+    },
+    {
+      "id": "redmi-note-15-pro-plus",
+      "brand": "Xiaomi",
+      "name": "Redmi Note 15 Pro+ 5G",
+      "type": "Phone",
+      "released": "2026",
+      "status": "Available",
+      "img": "",
+      "price_my": "RM 1,599",
+      "price_global": "Regional pricing varies — check local Xiaomi store",
+      "quickspec": {
+        "Display": "Curved AMOLED",
+        "Chipset": "Mid-range 5G",
+        "RAM": "12GB",
+        "Battery": "Fast charging 120W"
+      },
+      "ratings": {"performance": 3, "battery": 4, "display": 4, "value": 5},
+      "specs": {
+        "Network": {"Technology": "GSM / HSPA / LTE / 5G"},
+        "Display": {"Type": "Curved AMOLED"},
+        "Platform": {"OS": "HyperOS (Android 16)", "CPU": "Octa-core"},
+        "Memory": {"Card slot": "No", "Internal": "512GB 12GB RAM"},
+        "Battery": {"Type": "Non-removable", "Charging": "120W wired fast charging"},
+        "Misc": {"Colors": "Check retailer for available colors in Malaysia", "Price": "About RM 1,599 (Malaysia)"}
+      }
     }
   ]
 }
